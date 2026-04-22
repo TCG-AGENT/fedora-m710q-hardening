@@ -1,5 +1,11 @@
 # Fedora 43 Hardening on Lenovo ThinkCentre M710q
 
+![HSI Status](https://img.shields.io/badge/HSI-2%2B-success?style=flat&logo=lenovo&logoColor=white&labelColor=555555)
+![Fedora](https://img.shields.io/badge/Fedora-43-51a2da?style=flat&logo=fedora&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel-6.19-blue?style=flat&logo=linux&logoColor=white)
+![Secure Boot](https://img.shields.io/badge/Secure%20Boot-Enabled-brightgreen?style=flat&logo=ubuntu&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
+
 ## Problem Statement
 
 On a Lenovo ThinkCentre M710q running Fedora 43, the `fwupdmgr security` report showed **HSI:1!** with failures for:
