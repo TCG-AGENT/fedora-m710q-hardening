@@ -1,0 +1,8 @@
+=== System Information ===
+Model: 10MRS02D00
+BIOS Version: M1AKT5AA
+Kernel: 6.19.12-200.fc43.x86_64
+Fedora Release: Fedora release 43 (Forty Three)
+
+=== Kernel Command Line ===
+BOOT_IMAGE=(hd0,gpt2)/vmlinuz-6.19.12-200.fc43.x86_64 root=UUID=65650f0d-8b9b-4284-8c90-f26abd001c3c ro rootflags=subvol=root rd.luks.uuid=luks-e5094283-686a-4f26-aa75-85117d139708 rhgb quiet intel_iommu=on iommu.passthrough=0 iommu.strict=1 mem_sleep_default=s2idle lockdown=confidentiality
